@@ -11,6 +11,10 @@
 - How to handle **Categorical** columns using:
   - Label Encoder
   - One-hot Encoder
+- **Pipelines** using the following
+  - Imputer for missing values
+  - One-hot encoder for categorical values
+  - Random forest for regression
 
 ## How to run
 1. Build docker image
