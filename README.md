@@ -4,10 +4,13 @@
 - Training and predicting using **Decision Trees**
 - Analyzing and preventing overfitting by changing model parameters
 - **Random forest**(Ensemble Model) for prediction housing prices
-- How to handle missing values using **Imputation** of the following kind:
+- How to handle missing values using **Imputation** of the following kinds:
   - Mean
   - Median
   - Most Frequent
+- How to handle **Categorical** columns using:
+  - Label Encoder
+  - One-hot Encoder
 
 ## How to run
 1. Build docker image
