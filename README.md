@@ -1,9 +1,13 @@
 # Kaggle Housing Prices using Decision Trees :evergreen_tree: and Random Forest :palm_tree: :herb: :sunflower: :rabbit:
 
 ## Topics Covered
-- Training and predicting using Decision Trees
+- Training and predicting using **Decision Trees**
 - Analyzing and preventing overfitting by changing model parameters
-- Random forest(Ensemble Model) for prediction housing prices
+- **Random forest**(Ensemble Model) for prediction housing prices
+- How to handle missing values using **Imputation** of the following kind:
+  - Mean
+  - Median
+  - Most Frequent
 
 ## How to run
 1. Build docker image
