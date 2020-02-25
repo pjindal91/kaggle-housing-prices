@@ -4,7 +4,8 @@ RUN  pip install  \
         scikit-learn  \
         pandas \
         jupyterlab \
-        matplotlib
+        matplotlib \ 
+        xgboost
 
 EXPOSE 8888
 

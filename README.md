@@ -15,7 +15,8 @@
   - Imputer for missing values
   - One-hot encoder for categorical values
   - Random forest for regression
-- **Cross Validation** by 10 folds 
+- **Cross Validation**
+- **XGBoost** 
 
 ## How to run
 1. Build docker image
