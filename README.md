@@ -17,6 +17,8 @@
   - Random forest for regression
 - **Cross Validation**
 - **XGBoost** 
+- Parameter selection using **GridSearchCV**
+- 0 mean, 1 SD standardization of data using **StandardScalar**
 
 ## How to run
 1. Build docker image
