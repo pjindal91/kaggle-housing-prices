@@ -5,7 +5,9 @@ RUN  pip install  \
         pandas \
         jupyterlab \
         matplotlib \ 
-        xgboost
+        xgboost \ 
+        category-encoders \ 
+        seaborn
 
 EXPOSE 8888
 

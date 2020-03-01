@@ -15,7 +15,7 @@
   - Imputer for missing values
   - One-hot encoder for categorical values
   - Random forest for regression
-- **Cross Validation**
+- **Cross Validation** with **matplotlib**
 - **XGBoost** 
 - Parameter selection using **GridSearchCV**
 - 0 mean, 1 SD standardization of data using **StandardScalar**
